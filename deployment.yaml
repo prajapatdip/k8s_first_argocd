@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: tg-redirect
-        image: prajapatdip/tg-redirect:1.0
+        image: prajapatdip/tgredirect
         ports:
         - containerPort: 8081
