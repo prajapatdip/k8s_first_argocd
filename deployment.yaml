@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: tg-redirect
-        image: prajapatdip/tgredirect:c478c1b8c3dbf1e1d8e27d3f6bef3b49cc42d7e6
+        image: prajapatdip/tgredirect:c719e2e7b1533ab1fcd31b82f076692c6272cd75
         ports:
         - containerPort: 8081
