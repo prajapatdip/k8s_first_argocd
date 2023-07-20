@@ -1,6 +1,9 @@
 
 # CI/CD Pipeline for NodeJS Application using GitHub Actions, ArgoCD and Kubernetes
 
+![CI_CD](https://github.com/prajapatdip/k8s_first_argocd/assets/104031556/9678d3ed-d75d-4721-86f5-7a4ed6fb6e9c)
+
+
 Here are the step-by-step details to set up an end-to-end CI/CD pipeline for a NodeJS application using GitHub Actions, ArgoCD and Kubernetes:
 
 Prerequisites:
